@@ -1,0 +1,19 @@
+{
+  "name": "projecthub",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "listen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qkkehugx/projectHub.git"
+  },
+  "author": "qkkehugx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qkkehugx/projectHub/issues"
+  },
+  "homepage": "https://github.com/qkkehugx/projectHub#readme"
+}
