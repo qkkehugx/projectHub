@@ -4,7 +4,7 @@
   "description": "## Description",
   "main": "listen.js",
   "scripts": {
-    "start":"node listen.js",
+    "start": "node listen.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/qkkehugx/projectHub#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
