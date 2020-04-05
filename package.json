@@ -4,7 +4,7 @@
   "description": "## Description",
   "main": "listen.js",
   "scripts": {
-    "start": "node listen.js",
+    "start": "nodemon listen.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +19,7 @@
   "homepage": "https://github.com/qkkehugx/projectHub#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "nodemon": "^2.0.2",
     "pug": "^2.0.4"
   },
   "devDependencies": {
