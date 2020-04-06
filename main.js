@@ -8,6 +8,6 @@ const dir = __dirname;
 app.set('view engine', 'pug');
 app.set('views', `${dir}/views`);
 
-app.use('/', indexRouter);
+app.use('', indexRouter);
 
 module.exports = app;
